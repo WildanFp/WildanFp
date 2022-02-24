@@ -5,7 +5,14 @@
 
 🌱 I’m currently learning flutter, laravel
 
-⚙️ Daily Code Stack: .php, .js, .html, .css, dart
+⚙️ Daily Code Stack:
+
+![](https://cdn.iconscout.com/icon/free/png-64/php-27-226042.png)
+![](https://cdn.iconscout.com/icon/free/png-64/js-45-458325.png)
+![](https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png)
+
+![](https://cdn.iconscout.com/icon/free/png-64/flutter-2038877-1720090.png)
+![](https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png)
 
 📫 How to reach me wildanfirdausiputra@gmail.com
 
