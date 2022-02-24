@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wildan 
 
-## i'm a D3 informatics management student from POLITEKNIK NEGERI MALANG
+## i'm a informatics management student from POLITEKNIK NEGERI MALANG
 👀 I’m interested in developer
 
 🌱 I’m currently learning flutter, laravel
