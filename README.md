@@ -14,10 +14,15 @@
 ![](https://cdn.iconscout.com/icon/free/png-64/flutter-2038877-1720090.png)
 ![](https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png)
 
-📫 How to reach me wildanfirdausiputra@gmail.com
+![](https://github.com/WildanFp/github-stats-1/blob/master/generated/languages.svg)
 
+![](https://media.giphy.com/media/bcKwTeSFswIlVJebN8/giphy.gif)
+
+📫 How to reach me wildanfirdausiputra@gmail.com
 <!---
 WildanFp/WildanFp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github.com/WildanFp/github-stats-1/blob/master/generated/languages.svg)
+
+
+
