@@ -19,7 +19,6 @@
 
 
 ![](https://media.giphy.com/media/bcKwTeSFswIlVJebN8/giphy.gif)
-
 📫 How to reach me wildanfirdausiputra@gmail.com
 <!---
 WildanFp/WildanFp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
