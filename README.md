@@ -15,6 +15,8 @@
 ![](https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png)
 
 ![](https://github.com/WildanFp/github-stats-1/blob/master/generated/languages.svg)
+![](https://wakatime.com/share/@a83a5bdf-8db2-469c-b0aa-4263050bdff7/7ec2a45b-bc73-4755-a853-a132d18fd7b9.svg)
+
 
 ![](https://media.giphy.com/media/bcKwTeSFswIlVJebN8/giphy.gif)
 
