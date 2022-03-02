@@ -20,7 +20,7 @@
 ## github stats
 ![](https://github.com/WildanFp/github-stats-1/blob/master/generated/languages.svg)
 ## coding activity
-![](https://wakatime.com/share/@a83a5bdf-8db2-469c-b0aa-4263050bdff7/7ec2a45b-bc73-4755-a853-a132d18fd7b9.svg)
+![](https://wakatime.com/share/@a83a5bdf-8db2-469c-b0aa-4263050bdff7/17d3849a-1eca-4130-a369-aee36b2c9d7d.svg)
 
 
 ![](https://media.giphy.com/media/bcKwTeSFswIlVJebN8/giphy.gif)
