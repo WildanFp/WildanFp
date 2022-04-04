@@ -1,9 +1,6 @@
 ## <img width="70" src="https://media.giphy.com/media/MksyvqJEf8yPK/giphy.gif"> Hi, I’m Wildan 
 
 ## i'm student from POLITEKNIK NEGERI MALANG <img width="50" src="https://media.giphy.com/media/bcKwTeSFswIlVJebN8/giphy.gif">
-👀 I’m interested in developer
-
-🌱 I’m currently learning flutter, laravel
 
 ⚙️ Daily Code Stack:
 
