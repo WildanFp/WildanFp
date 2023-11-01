@@ -14,8 +14,6 @@
 
 ## github stats
 ![](https://github.com/WildanFp/github-stats-1/blob/master/generated/languages.svg)
-## coding activity
-<img width="700" src="https://wakatime.com/share/@a83a5bdf-8db2-469c-b0aa-4263050bdff7/17d3849a-1eca-4130-a369-aee36b2c9d7d.svg">
 
 📫 How to reach me wildanfirdausiputra@gmail.com
 <!---
