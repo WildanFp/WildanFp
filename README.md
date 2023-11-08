@@ -1,5 +1,6 @@
 ## <img width="70" src="https://media.giphy.com/media/MksyvqJEf8yPK/giphy.gif"> Hi, I’m Wildan 
-<img width="60" src="https://media.giphy.com/media/S9WU2zzDE0LdFJKg9q/giphy.gif">
+<img width="100" src="https://media.giphy.com/media/S9WU2zzDE0LdFJKg9q/giphy.gif">
+
 ## i'm student from POLITEKNIK NEGERI MALANG 
 
 ⚙️ Daily Code Stack:
